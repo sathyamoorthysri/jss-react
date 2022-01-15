@@ -23,3 +23,6 @@
 scjssconfig.json
 *.deploysecret.config
 /build-rendering-host
+
+/.vs
+/*cache
